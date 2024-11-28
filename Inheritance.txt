@@ -1,0 +1,15 @@
+single inheritance
+multi level inheritance
+hirerchial inheritance
+multiple inheritance
+hybrid inheritance
+
+class=>class (extends)
+class=>abstract class (extends)
+class=> Multiple Interface (implements)
+
+abst class=>class (extends)
+abst class=> abst class (extends)
+abst class=> multiple Interface (implements)
+
+Interface=>multiple Interface (extends)
